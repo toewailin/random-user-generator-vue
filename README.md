@@ -29,3 +29,8 @@ This project is a simple Random User Generator built with Vue.js. It allows user
 
    ```bash
    git clone https://github.com/toewailin/random-user-generator-vue.git
+
+   or 
+
+   git clone git@github.com:toewailin/random-user-generator-vue.git
+
